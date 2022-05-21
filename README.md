@@ -63,6 +63,7 @@ Variables of Figure 1.
 - Lp = Total Length
 - Lp/2 = Center of Mass
 - Jp = Moment of Inertia of the Center of Mass
+The first step in the preliminary analysis was to build our State Space model. From this we were able to build the equations of motion for the pendulum by correctly relating the reactions in the state space model. Once the Equations of motion were built, it proved challenging to correctly build the State Space Equations. 
 
 Link: https://github.com/Toto245/Toto245.github.io/tree/main/PrelimCalc
 
