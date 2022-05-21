@@ -1,6 +1,7 @@
 ![](images/ChicoEngineering.png)
 # MECA482-Group7-Project
 [https://github.com/Toto245/Toto245.github.io] to view github.io 
+[https://toto245.github.io/] to view website
 
  - Spring 2022 
  - Control System Design of Furuta Pendulum  
