@@ -1,7 +1,6 @@
 ![](images/ChicoEngineering.png)
 # MECA482-Group7-Project
-[https://github.com/Toto245/Toto245.github.io] to view github.io\
-[https://toto245.github.io/] to view website
+[https://github.com/Toto245/Toto245.github.io] to view github.io 
 
  - Spring 2022 
  - Control System Design of Furuta Pendulum  
@@ -87,7 +86,7 @@ The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has 
 
 ----------------------------------------------------------------------------------------------------
 ### Conclusion
-We were able to obtain our preliminary equations of motion through calculations. From coding with matlab we were able to get root locus, plots and transfer functions all running. 
+We were able to obtain our preliminary equations of motion through calculations. From coding with matlab we were able to get root locus, plots and transfer functions all running. We were also able to build a mostly working model in copelia sim even though we were provided a model. In the end we were not able to get matlab and simulink to interact with eachother or run a simulation of the pendulum. 
 ----------------------------------------------------------------------------------------------------
 ### Appendix A
 
