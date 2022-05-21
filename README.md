@@ -52,7 +52,7 @@ Visiual representation of our ststem and description of how the the physical com
 
 Figure 1. System Model
 
-![](images/equations.PNG)
+![](images/equation.PNG)
 
 ![](images/SecondHalf.PNG)
 
