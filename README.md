@@ -22,7 +22,6 @@ The Furuta Pendulum (rotational inverted pendulum) is a device that balances a f
 
 ![](images/FurutaPendulum.PNG)
 
-
 #### Deliverables 
 - The team is expected to present their project (~ 5mins) and build a web page which contains all deliverables in GitHub.
 - The mathematical model of the system must be delivered -preferably in Python or MATLAB.
@@ -58,12 +57,12 @@ Figure 1. System Model
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
 
 Variables of Figure 1.
-- Lh = arm length
-- Ih = Moment of Inertia
+- Lr = arm length
+- Jr = Moment of Inertia
 - θ = Angle of Jr
-- 2lv = Total Length
-- lv = Center of Mass
-- Jv = Moment of Inertia of the Center of Mass
+- Lp = Total Length
+- Lp/2 = Center of Mass
+- Jp = Moment of Inertia of the Center of Mass
 
 Link: https://github.com/Toto245/Toto245.github.io/tree/main/PrelimCalc
 
