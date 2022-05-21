@@ -20,7 +20,7 @@
 #### Project
 The Furuta Pendulum (rotational inverted pendulum) is a device that balances a free rotating pendulum in the vertical plane by a drive arm which rotates in the horizontal plane. The goal of this project is to create a Furuta Pendulum simulation by creating a control algorithm through matlab and modeling on Coppelia Sim. The Pendulum beam will be balanced upright perpendicular to the base of the ground by a control system. the project will be virtual and not an actual product will be made. 
 
-![](images/EquationsOfMotionVertPenArm.PNG)
+![](images/FurutaPendulum.PNG)
 
 
 #### Deliverables 
