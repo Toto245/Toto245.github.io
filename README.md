@@ -85,6 +85,7 @@ The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has 
 
 ----------------------------------------------------------------------------------------------------
 ### Conclusion
+
 We were able to obtain our preliminary equations of motion through calculations. From coding with matlab we were able to get root locus, plots and transfer functions all running. We were also able to build a mostly working model in copelia sim even though we were provided a model. In the end we were not able to get matlab and simulink to interact with eachother or run a simulation of the pendulum. 
 ----------------------------------------------------------------------------------------------------
 ### Appendix A
