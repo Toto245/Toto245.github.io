@@ -52,7 +52,8 @@ Visiual representation of our ststem and description of how the the physical com
 
 Figure 1. System Model
 
-![](images/EquationsOfMotionVertPenArm.PNG)
+![](images/equation.PNG)
+![](images/SecondHalf.PNG)
 
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
 
