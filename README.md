@@ -2,7 +2,7 @@
 # MECA482-Group7-Project
 [https://github.com/Toto245/Toto245.github.io] to view github.io\
 [https://toto245.github.io/] to view website
-
+0
  - Spring 2022 
  - Control System Design of Furuta Pendulum  
  - Group 7: Bryce Miller, Toto Albano-Dito, Angel Sanchez, Lucas West 
