@@ -20,9 +20,7 @@
 #### Project
 The Furuta Pendulum (rotational inverted pendulum) is a device that balances a free rotating pendulum in the vertical plane by a drive arm which rotates in the horizontal plane. The goal of this project is to create a Furuta Pendulum simulation by creating a control algorithm through matlab and modeling on Coppelia Sim. The Pendulum beam will be balanced upright perpendicular to the base of the ground by a control system. the project will be virtual and not an actual product will be made. 
 
-<p align="center">
-  <img width="460" height="300" src="images/FurutaPendulum">
-</p>
+![](images/FurutaPendulum.PNG)
 
 
 #### Deliverables 
@@ -60,12 +58,12 @@ Figure 1. System Model
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
 
 Variables of Figure 1.
-- Lr = arm length
-- Jr = Moment of Inertia
+- Lh = arm length
+- Ih = Moment of Inertia
 - θ = Angle of Jr
-- Lp = Total Length
-- Lp/2 = Center of Mass
-- Jp = Moment of Inertia of the Center of Mass
+- 2lv = Total Length
+- lv = Center of Mass
+- Jv = Moment of Inertia of the Center of Mass
 
 Link: https://github.com/Toto245/Toto245.github.io/tree/main/PrelimCalc
 
