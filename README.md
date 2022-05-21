@@ -59,12 +59,12 @@ Figure 1. System Model
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
 
 Variables of Figure 1.
-- Lr = arm length
-- Jr = Moment of Inertia
+- Lh = arm length
+- Ih = Moment of Inertia
 - θ = Angle of Jr
-- Lp = Total Length
-- Lp/2 = Center of Mass
-- Jp = Moment of Inertia of the Center of Mass
+- 2lv = Total Length
+- lv = Center of Mass
+- Jv = Moment of Inertia of the Center of Mass
 -
 The first step in the preliminary analysis was to build our State Space model. From this we were able to build the equations of motion for the pendulum by correctly relating the reactions in the state space model. Once the Equations of motion were built, it proved challenging to correctly build the State Space Equations. 
 
@@ -87,7 +87,7 @@ The modelling of the Furuta Pendulum is implemented with CoppeliaSim, which has 
 ----------------------------------------------------------------------------------------------------
 ### Conclusion
 
-We were able to obtain our preliminary equations of motion through calculations. Building the state equations from these motion equations was one roadblock for us in completing this project. From coding with matlab we were able to get root locus, plots and transfer functions all running. We were also able to build a mostly working model in coppelia sim even though we were provided a model. In the end we were not able to get matlab and simulink to interact with eachother or run a simulation of the pendulum. 
+We were able to obtain our preliminary equations of motion through calculations. Building the state equations from these motion equations was one roadblock for us in completing this project. From coding with matlab we were able to get root locus, plots and transfer functions all running. We were also able to build a mostly working model in copelia sim even though we were provided a model. In the end we were not able to get matlab and simulink to interact with eachother or run a simulation of the pendulum. 
 ----------------------------------------------------------------------------------------------------
 ### Appendix A
 
