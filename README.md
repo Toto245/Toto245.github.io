@@ -54,7 +54,8 @@ Figure 1. System Model
 
 ![](images/equation.PNG)
 
-![](images/SecondHalf.PNG)
+[InternetShortcut]
+URL=https://cdn.discordapp.com/attachments/956733796831604738/977460495789461504/20220520_233844.jpg
 
 The futura pendulum system model is shown above. The moving arm utilizes the SRV02, which is the Quanser QUBE-Servo 2. This is how the arm actuates.
 
